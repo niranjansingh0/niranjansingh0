@@ -106,6 +106,8 @@ me.sayHello();
 
 ## 💼 Featured Projects
 
+## 💼 Featured Projects
+
 <div align="center">
   <a href="https://github.com/niranjansingh0/secret-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansingh0&repo=secret-app&theme=dracula&hide_border=true" alt="secret-app" />
@@ -114,6 +116,7 @@ me.sayHello();
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansingh0&repo=Blogs&theme=dracula&hide_border=true" alt="Blogs" />
   </a>
 </div>
+
 
 ---
 
