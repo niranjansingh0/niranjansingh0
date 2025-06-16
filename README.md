@@ -44,48 +44,97 @@ class Developer {
 
 const me = new Developer();
 me.sayHello();
+```
 
+---
 
+## 🛠️ My Tech Stack
 
+### 🧠 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### 💻 Frontend  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-🛠️ My Tech Stack
-🧠 Languages
+### 🔧 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### 🗃️ Database & Tools  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### ☁️ DevOps & Cloud  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
 
-💻 Frontend
+## 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niranjansingh0&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="GitHub Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjansingh0&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansingh0&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
 
+---
 
-🔧 Backend
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niranjansingh0&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
+---
 
+## 💼 Featured Projects
 
+<div align="center">
+  <a href="https://github.com/niranjansingh0/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansingh0&repo=project1&theme=dracula&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/niranjansingh0/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansingh0&repo=project2&theme=dracula&hide_border=true" alt="Project 2" />
+  </a>
+</div>
 
+---
 
-🗃️ Database & Tools
+## 💭 Random Dev Quote
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</div>
 
+---
 
+## 🐍 Contribution Graph
 
-☁️ DevOps & Cloud
+<div align="center">
+  <img src="https://github.com/niranjansingh0/niranjansingh0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
+---
 
-
-
-📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niranjansingh0&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjansingh0&theme=dracula&hide_border=true" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansingh0&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" /> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=niranjansingh0&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" /> </div>
-💼 Featured Projects
-<div align="center"> <a href="https://github.com/niranjansingh0/project1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansingh0&repo=project1&theme=dracula&hide_border=true" alt="Project 1" /> </a> <a href="https://github.com/niranjansingh0/project2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansingh0&repo=project2&theme=dracula&hide_border=true" alt="Project 2" /> </a> </div>
-💭 Random Dev Quote
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" /> </div>
-🐍 Contribution Graph
-<div align="center"> <img src="https://github.com/niranjansingh0/niranjansingh0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
-<div align="center"> <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love" /> <br> <i>Happy Coding! 🚀</i> </div> ```
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love" />
+  <br>
+  <i>Happy Coding! 🚀</i>
+</div>
