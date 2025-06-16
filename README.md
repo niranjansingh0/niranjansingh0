@@ -107,10 +107,10 @@ me.sayHello();
 ## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/niranjansingh0/project1">
+  <a href="https://github.com/niranjansingh0/secret-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansingh0&repo=project1&theme=dracula&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/niranjansingh0/project2">
+  <a href="https://github.com/niranjansingh0/Blogs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansingh0&repo=project2&theme=dracula&hide_border=true" alt="Project 2" />
   </a>
 </div>
