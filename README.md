@@ -28,7 +28,7 @@ class Developer {
     this.name = "Niranjan Singh 🚀";
     this.role = "FullStack Developer 🎨";
     this.location = "Ghaziabad, India 🌍";
-    this.favoriteLanguage = "JavaScript ✨";
+    this.favoriteLanguage = "C++ 💡";
     this.currentFocus = "Building scalable web apps and smart automations 💻";
     this.hobbies = ["Coding", "Learning new tech", "Open Source"];
   }
