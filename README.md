@@ -137,8 +137,9 @@ me.sayHello();
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Niranjan--white?style=for-the-badge" alt="Made with Love by Niranjan" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Niranjan%20Singh-8A2BE2?style=for-the-badge&logoColor=white&labelColor=8A2BE2" alt="Made with Love by Niranjan Singh" />
   <br>
   <i>Happy Coding! 🚀</i>
 </div>
+
 
