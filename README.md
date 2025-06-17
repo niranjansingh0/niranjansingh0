@@ -17,7 +17,7 @@
 <a href="mailto:ns916169@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/niranjansingh0/niranjansingh0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 <a href="https://niranjansingh.vercel.app/" target="_blank">
-  <img  src="https://img.shields.io/badge/Visit%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img  src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </div>
 
