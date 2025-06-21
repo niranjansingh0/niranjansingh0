@@ -15,7 +15,6 @@
 <a href="https://www.linkedin.com/in/niranjan-singh-56541126b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/niranjan00_/"><img src="https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" /></a>
 <a href="mailto:ns916169@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://github.com/niranjansingh0/niranjansingh0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 <a href="https://niranjansingh.vercel.app/" target="_blank">
   <img  src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
