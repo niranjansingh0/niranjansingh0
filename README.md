@@ -12,18 +12,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjansingh0&label=Profile%20views&color=0e75b6&style=flat" alt="niranjansingh0" /> </p>
 
-<a href="https://www.linkedin.com/in/niranjan-singh-56541126b/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ns916169@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://leetcode.com/u/niranjan00_/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" />
-</a>
-<a href="https://niranjansingh.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/niranjan-singh-56541126b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:ns916169@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://leetcode.com/u/niranjan00_/"><img src="https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" /></a> 
+<a href="https://niranjansingh.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
 
 </div>
 
